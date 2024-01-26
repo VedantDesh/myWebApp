@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    color: darkcyan;
+    font-size: 5.625rem;
+    margin top: 0;
+    font-weight: lighter;
+    font-family: 'Bangers', cursive;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    color: beige;
+    font-size: large;
+}
+.middle{
+    background-color:black;
+    position: absolute;
+    margin-top: 0;
+}
+.top{
+   background-color:black;
+   position: relative;
+   padding-top: 150px;
+}
+.top-logo{
+    position:absolute ;
+    right: 200px;
+    top: 40px;
+}
+.bottom-logo{
+    padding-bottom: 10px;
+}
+.emiway img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 30px;
+}
+
+.RAFTAAR img{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-left: 30px;
+}
+.DIVINE img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 30px;
+}
+.krisna img{
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin-left: 30px;
+}
+.stan img{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-right: 30px;
+}
+h2{
+    color: darkcyan;
+    font-family: 'Bangers', cursive;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+       
+.emiway{
+    width: 70%;
+    margin: 70px auto 100px auto;
+    text-align: left;
+    padding-top: 50px;
+}
+.RAFTAAR{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+
+}
+.DIVINE{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.krisna{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.stan{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    padding-bottom: 60px;
+    text-align: left;
+}
+hr{
+    border: dotted white 6px;
+    border-bottom: none;
+    width: 20%;
+    margin: 30px auto 0px auto;
+}
+.btn {
+    background: #d93434;
+    background-image: -webkit-linear-gradient(top, #d93434, #b82b92);
+    background-image: -moz-linear-gradient(top, #d93434, #b82b92);
+    background-image: -ms-linear-gradient(top, #d93434, #b82b92);
+    background-image: -o-linear-gradient(top, #d93434, #b82b92);
+    background-image: linear-gradient(to bottom, #d93434, #b82b92);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fc3c3c;
+    background-image: -webkit-linear-gradient(top, #fc3c3c, #d9b034);
+    background-image: -moz-linear-gradient(top, #fc3c3c, #d9b034);
+    background-image: -ms-linear-gradient(top, #fc3c3c, #d9b034);
+    background-image: -o-linear-gradient(top, #fc3c3c, #d9b034);
+    background-image: linear-gradient(to bottom, #fc3c3c, #d9b034);
+    text-decoration: none;
+  }
+  .bottom{
+    background-color:black;
+    margin-top: 0px;
+    
+  }
+  .vedimg{
+    width: 200px;
+    height: 200px;
+    
+  }
+  h3{
+    color: darkcyan;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 1rem;
+  }
+  .vedant{
+   width: 40%;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+  }  
+  .akimg{
+    width: 200px;
+    height: 200px;
+  }
+  .akshay{
+    width: 40%;
+    text-align: center;
+    display: inline-block;
+  }  
+
+
+
